@@ -1,0 +1,23 @@
+{
+  "name": "cwd/datamolino-bundle",
+  "description": "",
+  "keywords": ["datamolino", "api-client", "client", "invoice", "ocr", "symfony", "bundle"],
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ludwig Ruderstaller",
+      "email": "l.ruderstaller@cwd.at",
+      "homepage": "https://cwd.at"
+    }
+  ],
+  "require": {
+    "php": ">=7.1",
+    "cwd/datamolino-client": "^1.2.2.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Cwd\\DatamolinoBundle\\": ""
+    }
+  }
+}
