@@ -1,17 +1,17 @@
 Datamolino Client Bundle
 ========================
 
-[![Latest Stable Version](https://poser.pugx.org/cwd/datamolino-bundle/v/stable)](https://packagist.org/packages/cwd/datamolino-client) 
-[![Total Downloads](https://poser.pugx.org/cwd/datamolino-bundle/downloads)](https://packagist.org/packages/cwd/datamolino-client) 
-[![Latest Unstable Version](https://poser.pugx.org/cwd/datamolino-bundle/v/unstable)](https://packagist.org/packages/cwd/datamolino-client) 
-[![License](https://poser.pugx.org/cwd/datamolino-bundle/license)](https://packagist.org/packages/cwd/datamolino-client)
+[![Latest Stable Version](https://poser.pugx.org/cwd/datamolino-bundle/v/stable)](https://packagist.org/packages/cwd/datamolino-bundle) 
+[![Total Downloads](https://poser.pugx.org/cwd/datamolino-bundle/downloads)](https://packagist.org/packages/cwd/datamolino-bundle) 
+[![Latest Unstable Version](https://poser.pugx.org/cwd/datamolino-bundle/v/unstable)](https://packagist.org/packages/cwd/datamolino-bundle) 
+[![License](https://poser.pugx.org/cwd/datamolino-bundle/license)](https://packagist.org/packages/cwd/datamolino-bundle)
 
 
 This is a Symfony Bridge for the Datamolino Client. 
 
 Installation:
 ------------
-`composer require cwd/datamolino-client`
+`composer require cwd/datamolino-bundle`
 
 Usage:
 ------
